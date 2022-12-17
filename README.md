@@ -5,9 +5,9 @@ If you have any other questions, please contact Telegram Support (in Telegram go
 If you can't log in to your account, please use [this form](https://telegram.org/support).
 
 > For **media requests**, please contact [@PressBot](https://t.me/pressbot) on Telegram.
+<br>
 
-Twitter?
-
+**Twitter?**
 > Yep. Follow us! [@telegram](https://twitter.com/telegram)
 Our twitter account in Spanish: [@telegram_es](https://twitter.com/telegram_es)
 In Italian: [@telegram_it](https://twitter.com/telegram_it)
