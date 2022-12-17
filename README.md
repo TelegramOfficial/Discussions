@@ -1,4 +1,4 @@
-**Telegram Support**/[**Disscussion**](https://github.com/TelegramOfficial/Discussions/discussions)
+**Telegram Support**/[**Disscussion**](https://github.com/TelegramOfficial/Discussions/discussions) 
 
 If you have any other questions, please contact Telegram Support (in Telegram go to Settings — Ask a question). Note that we rely on volunteers for support.
 
